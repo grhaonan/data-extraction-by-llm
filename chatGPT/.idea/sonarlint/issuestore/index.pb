@@ -8,3 +8,5 @@ L
 .idea/codeStyles/Project.xml,6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648
 u
 E.ipynb_checkpoints/data-extraction-insurance-receipt-checkpoint.ipynb,b/1/b13ce287eb89e624291bb93ce2893b7030744dc6
+y
+I.ipynb_checkpoints/data-extraction-insurance-receipt-web-checkpoint.ipynb,4/f/4f3e3bc800506a7101d1a81c628bb7c52fae714f
